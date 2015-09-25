@@ -1,0 +1,172 @@
+C:\Documents and Settings\Prabhu\Desktop\APC\IAS\AndonManager\bin\Debug\ias.andonmanager.dll
+C:\Documents and Settings\Prabhu\Desktop\APC\IAS\AndonManager\bin\Debug\ias.andonmanager.pdb
+C:\Documents and Settings\Prabhu\Desktop\APC\IAS\AndonManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Prabhu\Desktop\APC\IAS\AndonManager\obj\Debug\ias.andonmanager.dll
+C:\Documents and Settings\Prabhu\Desktop\APC\IAS\AndonManager\obj\Debug\ias.andonmanager.pdb
+E:\APC\IAS\AndonManager\bin\Debug\ias.andonmanager.dll
+E:\APC\IAS\AndonManager\bin\Debug\ias.andonmanager.pdb
+E:\APC\IAS\AndonManager\obj\Debug\ResolveAssemblyReference.cache
+E:\APC\IAS\AndonManager\obj\Debug\ias.andonmanager.dll
+E:\APC\IAS\AndonManager\obj\Debug\ias.andonmanager.pdb
+F:\APC\IAS\AndonManager\bin\Debug\ias.andonmanager.dll
+F:\APC\IAS\AndonManager\bin\Debug\ias.andonmanager.pdb
+F:\APC\IAS\AndonManager\obj\Debug\ResolveAssemblyReference.cache
+F:\APC\IAS\AndonManager\obj\Debug\ias.andonmanager.dll
+F:\APC\IAS\AndonManager\obj\Debug\ias.andonmanager.pdb
+E:\APC\IAS\AndonManager\bin\Debug\MEI.SerialPortDriver.pdb
+D:\APC\IAS\AndonManager\bin\Debug\ias.andonmanager.dll
+D:\APC\IAS\AndonManager\bin\Debug\ias.andonmanager.pdb
+D:\APC\IAS\AndonManager\bin\Debug\MEI.SerialPortDriver.pdb
+D:\APC\IAS\AndonManager\obj\Debug\ResolveAssemblyReference.cache
+D:\APC\IAS\AndonManager\obj\Debug\ias.andonmanager.dll
+D:\APC\IAS\AndonManager\obj\Debug\ias.andonmanager.pdb
+D:\APC\IAS\AndonManager\bin\Debug\MEI.SerialPortDriver.dll
+D:\APC\IAS\AndonManager\bin\Debug\RS485Driver.dll
+D:\APC\IAS\AndonManager\bin\Debug\RS485Driver.pdb
+F:\APC\IAS\AndonManager\bin\Debug\RS485Driver.dll
+F:\APC\IAS\AndonManager\bin\Debug\RS485Driver.pdb
+E:\APC\IAS\AndonManager\bin\Debug\RS485Driver.pdb
+I:\APC\IAS\AndonManager\bin\Debug\ias.andonmanager.dll
+I:\APC\IAS\AndonManager\bin\Debug\ias.andonmanager.pdb
+I:\APC\IAS\AndonManager\bin\Debug\MEI.SerialPortDriver.pdb
+I:\APC\IAS\AndonManager\bin\Debug\RS485Driver.pdb
+I:\APC\IAS\AndonManager\obj\Debug\ResolveAssemblyReference.cache
+I:\APC\IAS\AndonManager\obj\Debug\ias.andonmanager.dll
+I:\APC\IAS\AndonManager\obj\Debug\ias.andonmanager.pdb
+E:\Projects\Schneider_Hyderabad\Software\IAS\AndonManager\bin\Debug\ias.andonmanager.dll
+E:\Projects\Schneider_Hyderabad\Software\IAS\AndonManager\bin\Debug\ias.andonmanager.pdb
+E:\Projects\Schneider_Hyderabad\Software\IAS\AndonManager\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\Schneider_Hyderabad\Software\IAS\AndonManager\obj\Debug\ias.andonmanager.dll
+E:\Projects\Schneider_Hyderabad\Software\IAS\AndonManager\obj\Debug\ias.andonmanager.pdb
+E:\Projects\Schneider_Hyderabad\Software\IAS\AndonManager\bin\Debug\ias.Xbee.dll
+E:\Projects\Schneider_Hyderabad\Software\IAS\AndonManager\bin\Debug\ias.Xbee.pdb
+I:\Schneider_Hyderabad\Software\IAS\AndonManager\bin\Debug\ias.andonmanager.dll
+I:\Schneider_Hyderabad\Software\IAS\AndonManager\bin\Debug\ias.andonmanager.pdb
+I:\Schneider_Hyderabad\Software\IAS\AndonManager\bin\Debug\ias.Xbee.dll
+I:\Schneider_Hyderabad\Software\IAS\AndonManager\bin\Debug\ias.Xbee.pdb
+I:\Schneider_Hyderabad\Software\IAS\AndonManager\obj\Debug\ResolveAssemblyReference.cache
+I:\Schneider_Hyderabad\Software\IAS\AndonManager\obj\Debug\ias.andonmanager.dll
+I:\Schneider_Hyderabad\Software\IAS\AndonManager\obj\Debug\ias.andonmanager.pdb
+E:\Projects\Schneider_Hyderabad\Software\IAS\AndonManager\bin\Debug\ias.485Driver.dll
+E:\Projects\Schneider_Hyderabad\Software\IAS\AndonManager\bin\Debug\ias.SerialPortDriver.dll
+E:\Projects\Schneider_Hyderabad\Software\IAS\AndonManager\bin\Debug\ias.SerialPortDriver.pdb
+E:\Projects\Schneider_Hyderabad\Software\IAS\AndonManager\bin\Debug\ias.485Driver.pdb
+D:\Schneider_Hyderabad\Software\IAS\AndonManager\bin\Debug\ias.andonmanager.dll
+D:\Schneider_Hyderabad\Software\IAS\AndonManager\bin\Debug\ias.andonmanager.pdb
+D:\Schneider_Hyderabad\Software\IAS\AndonManager\bin\Debug\ias.485Driver.dll
+D:\Schneider_Hyderabad\Software\IAS\AndonManager\bin\Debug\ias.SerialPortDriver.dll
+D:\Schneider_Hyderabad\Software\IAS\AndonManager\bin\Debug\ias.Xbee.dll
+D:\Schneider_Hyderabad\Software\IAS\AndonManager\bin\Debug\ias.SerialPortDriver.pdb
+D:\Schneider_Hyderabad\Software\IAS\AndonManager\bin\Debug\ias.485Driver.pdb
+D:\Schneider_Hyderabad\Software\IAS\AndonManager\bin\Debug\ias.Xbee.pdb
+D:\Schneider_Hyderabad\Software\IAS\AndonManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Schneider_Hyderabad\Software\IAS\AndonManager\obj\Debug\ias.andonmanager.dll
+D:\Schneider_Hyderabad\Software\IAS\AndonManager\obj\Debug\ias.andonmanager.pdb
+E:\Projects\IAS\AndonManager\bin\Debug\ias.andonmanager.dll
+E:\Projects\IAS\AndonManager\bin\Debug\ias.andonmanager.pdb
+E:\Projects\IAS\AndonManager\bin\Debug\ias.485Driver.dll
+E:\Projects\IAS\AndonManager\bin\Debug\ias.SerialPortDriver.dll
+E:\Projects\IAS\AndonManager\bin\Debug\ias.Xbee.dll
+E:\Projects\IAS\AndonManager\bin\Debug\ias.SerialPortDriver.pdb
+E:\Projects\IAS\AndonManager\bin\Debug\ias.485Driver.pdb
+E:\Projects\IAS\AndonManager\bin\Debug\ias.Xbee.pdb
+E:\Projects\IAS\AndonManager\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\IAS\AndonManager\obj\Debug\ias.andonmanager.dll
+E:\Projects\IAS\AndonManager\obj\Debug\ias.andonmanager.pdb
+I:\IAS\AndonManager\bin\Debug\ias.andonmanager.dll
+I:\IAS\AndonManager\bin\Debug\ias.andonmanager.pdb
+I:\IAS\AndonManager\bin\Debug\ias.485Driver.dll
+I:\IAS\AndonManager\bin\Debug\ias.SerialPortDriver.dll
+I:\IAS\AndonManager\bin\Debug\ias.Xbee.dll
+I:\IAS\AndonManager\bin\Debug\ias.SerialPortDriver.pdb
+I:\IAS\AndonManager\bin\Debug\ias.485Driver.pdb
+I:\IAS\AndonManager\bin\Debug\ias.Xbee.pdb
+I:\IAS\AndonManager\obj\Debug\ResolveAssemblyReference.cache
+I:\IAS\AndonManager\obj\Debug\ias.andonmanager.dll
+I:\IAS\AndonManager\obj\Debug\ias.andonmanager.pdb
+E:\IAS\AndonManager\bin\Debug\ias.andonmanager.dll
+E:\IAS\AndonManager\bin\Debug\ias.andonmanager.pdb
+E:\IAS\AndonManager\bin\Debug\ias.485Driver.dll
+E:\IAS\AndonManager\bin\Debug\ias.SerialPortDriver.dll
+E:\IAS\AndonManager\bin\Debug\ias.Xbee.dll
+E:\IAS\AndonManager\bin\Debug\ias.SerialPortDriver.pdb
+E:\IAS\AndonManager\bin\Debug\ias.485Driver.pdb
+E:\IAS\AndonManager\bin\Debug\ias.Xbee.pdb
+E:\IAS\AndonManager\obj\Debug\ResolveAssemblyReference.cache
+E:\IAS\AndonManager\obj\Debug\ias.andonmanager.dll
+E:\IAS\AndonManager\obj\Debug\ias.andonmanager.pdb
+E:\APC_V2\Software\IAS\AndonManager\bin\Debug\ias.andonmanager.dll
+E:\APC_V2\Software\IAS\AndonManager\bin\Debug\ias.andonmanager.pdb
+E:\APC_V2\Software\IAS\AndonManager\bin\Debug\ias.485Driver.dll
+E:\APC_V2\Software\IAS\AndonManager\bin\Debug\ias.SerialPortDriver.dll
+E:\APC_V2\Software\IAS\AndonManager\bin\Debug\ias.Xbee.dll
+E:\APC_V2\Software\IAS\AndonManager\bin\Debug\ias.SerialPortDriver.pdb
+E:\APC_V2\Software\IAS\AndonManager\bin\Debug\ias.485Driver.pdb
+E:\APC_V2\Software\IAS\AndonManager\bin\Debug\ias.Xbee.pdb
+E:\APC_V2\Software\IAS\AndonManager\obj\Debug\ResolveAssemblyReference.cache
+E:\APC_V2\Software\IAS\AndonManager\obj\Debug\ias.andonmanager.dll
+E:\APC_V2\Software\IAS\AndonManager\obj\Debug\ias.andonmanager.pdb
+C:\Sagar\Repository\IDF8\APC_V2\Software\IAS\AndonManager\bin\Debug\ias.andonmanager.dll
+C:\Sagar\Repository\IDF8\APC_V2\Software\IAS\AndonManager\bin\Debug\ias.andonmanager.pdb
+C:\Sagar\Repository\IDF8\APC_V2\Software\IAS\AndonManager\bin\Debug\ias.485Driver.dll
+C:\Sagar\Repository\IDF8\APC_V2\Software\IAS\AndonManager\bin\Debug\ias.SerialPortDriver.dll
+C:\Sagar\Repository\IDF8\APC_V2\Software\IAS\AndonManager\bin\Debug\ias.Xbee.dll
+C:\Sagar\Repository\IDF8\APC_V2\Software\IAS\AndonManager\bin\Debug\ias.485Driver.pdb
+C:\Sagar\Repository\IDF8\APC_V2\Software\IAS\AndonManager\bin\Debug\ias.SerialPortDriver.pdb
+C:\Sagar\Repository\IDF8\APC_V2\Software\IAS\AndonManager\bin\Debug\ias.Xbee.pdb
+C:\Sagar\Repository\IDF8\APC_V2\Software\IAS\AndonManager\obj\Debug\AndonManager.csprojResolveAssemblyReference.cache
+C:\Sagar\Repository\IDF8\APC_V2\Software\IAS\AndonManager\obj\Debug\ias.andonmanager.dll
+C:\Sagar\Repository\IDF8\APC_V2\Software\IAS\AndonManager\obj\Debug\ias.andonmanager.pdb
+C:\Ideonics\IDF8_V3\Software\IAS\AndonManager\bin\Debug\ias.andonmanager.dll
+C:\Ideonics\IDF8_V3\Software\IAS\AndonManager\bin\Debug\ias.andonmanager.pdb
+C:\Ideonics\IDF8_V3\Software\IAS\AndonManager\bin\Debug\ias.485Driver.dll
+C:\Ideonics\IDF8_V3\Software\IAS\AndonManager\bin\Debug\ias.SerialPortDriver.dll
+C:\Ideonics\IDF8_V3\Software\IAS\AndonManager\bin\Debug\ias.Xbee.dll
+C:\Ideonics\IDF8_V3\Software\IAS\AndonManager\bin\Debug\ias.485Driver.pdb
+C:\Ideonics\IDF8_V3\Software\IAS\AndonManager\bin\Debug\ias.SerialPortDriver.pdb
+C:\Ideonics\IDF8_V3\Software\IAS\AndonManager\bin\Debug\ias.Xbee.pdb
+C:\Ideonics\IDF8_V3\Software\IAS\AndonManager\obj\Debug\AndonManager.csprojResolveAssemblyReference.cache
+C:\Ideonics\IDF8_V3\Software\IAS\AndonManager\obj\Debug\ias.andonmanager.dll
+C:\Ideonics\IDF8_V3\Software\IAS\AndonManager\obj\Debug\ias.andonmanager.pdb
+I:\IDF8_V3\IDF8_V3\Software\IAS\AndonManager\bin\Debug\ias.andonmanager.dll
+I:\IDF8_V3\IDF8_V3\Software\IAS\AndonManager\bin\Debug\ias.andonmanager.pdb
+I:\IDF8_V3\IDF8_V3\Software\IAS\AndonManager\obj\Debug\ResolveAssemblyReference.cache
+I:\IDF8_V3\IDF8_V3\Software\IAS\AndonManager\obj\Debug\ias.andonmanager.dll
+I:\IDF8_V3\IDF8_V3\Software\IAS\AndonManager\obj\Debug\ias.andonmanager.pdb
+I:\IDF8_V3\IDF8_V3\Software\IAS\AndonManager\bin\Debug\ias.485Driver.dll
+I:\IDF8_V3\IDF8_V3\Software\IAS\AndonManager\bin\Debug\ias.SerialPortDriver.dll
+I:\IDF8_V3\IDF8_V3\Software\IAS\AndonManager\bin\Debug\ias.Xbee.dll
+I:\IDF8_V3\IDF8_V3\Software\IAS\AndonManager\bin\Debug\ias.SerialPortDriver.pdb
+I:\IDF8_V3\IDF8_V3\Software\IAS\AndonManager\bin\Debug\ias.485Driver.pdb
+I:\IDF8_V3\IDF8_V3\Software\IAS\AndonManager\bin\Debug\ias.Xbee.pdb
+E:\Barcode Project\Ideonics\Repository\AOSmithWaterTreatment_Software\TestBenchApp\AndonManager\bin\Debug\ias.andonmanager.dll
+E:\Barcode Project\Ideonics\Repository\AOSmithWaterTreatment_Software\TestBenchApp\AndonManager\bin\Debug\ias.andonmanager.pdb
+E:\Barcode Project\Ideonics\Repository\AOSmithWaterTreatment_Software\TestBenchApp\AndonManager\bin\Debug\ias.485Driver.dll
+E:\Barcode Project\Ideonics\Repository\AOSmithWaterTreatment_Software\TestBenchApp\AndonManager\bin\Debug\ias.SerialPortDriver.dll
+E:\Barcode Project\Ideonics\Repository\AOSmithWaterTreatment_Software\TestBenchApp\AndonManager\bin\Debug\ias.Xbee.dll
+E:\Barcode Project\Ideonics\Repository\AOSmithWaterTreatment_Software\TestBenchApp\AndonManager\bin\Debug\ias.485Driver.pdb
+E:\Barcode Project\Ideonics\Repository\AOSmithWaterTreatment_Software\TestBenchApp\AndonManager\bin\Debug\ias.SerialPortDriver.pdb
+E:\Barcode Project\Ideonics\Repository\AOSmithWaterTreatment_Software\TestBenchApp\AndonManager\bin\Debug\ias.Xbee.pdb
+E:\Barcode Project\Ideonics\Repository\AOSmithWaterTreatment_Software\TestBenchApp\AndonManager\obj\Debug\AndonManager.csprojResolveAssemblyReference.cache
+E:\Barcode Project\Ideonics\Repository\AOSmithWaterTreatment_Software\TestBenchApp\AndonManager\obj\Debug\ias.andonmanager.dll
+E:\Barcode Project\Ideonics\Repository\AOSmithWaterTreatment_Software\TestBenchApp\AndonManager\obj\Debug\ias.andonmanager.pdb
+C:\Sagar\Repository\AOSmithWaterTreatment_Software\TestBenchApp\AndonManager\bin\Debug\ias.andonmanager.dll
+C:\Sagar\Repository\AOSmithWaterTreatment_Software\TestBenchApp\AndonManager\bin\Debug\ias.andonmanager.pdb
+C:\Sagar\Repository\AOSmithWaterTreatment_Software\TestBenchApp\AndonManager\bin\Debug\ias.485Driver.dll
+C:\Sagar\Repository\AOSmithWaterTreatment_Software\TestBenchApp\AndonManager\bin\Debug\ias.SerialPortDriver.dll
+C:\Sagar\Repository\AOSmithWaterTreatment_Software\TestBenchApp\AndonManager\bin\Debug\ias.Xbee.dll
+C:\Sagar\Repository\AOSmithWaterTreatment_Software\TestBenchApp\AndonManager\bin\Debug\ias.485Driver.pdb
+C:\Sagar\Repository\AOSmithWaterTreatment_Software\TestBenchApp\AndonManager\bin\Debug\ias.SerialPortDriver.pdb
+C:\Sagar\Repository\AOSmithWaterTreatment_Software\TestBenchApp\AndonManager\bin\Debug\ias.Xbee.pdb
+C:\Sagar\Repository\AOSmithWaterTreatment_Software\TestBenchApp\AndonManager\obj\Debug\AndonManager.csprojResolveAssemblyReference.cache
+C:\Sagar\Repository\AOSmithWaterTreatment_Software\TestBenchApp\AndonManager\obj\Debug\ias.andonmanager.dll
+C:\Sagar\Repository\AOSmithWaterTreatment_Software\TestBenchApp\AndonManager\obj\Debug\ias.andonmanager.pdb
+C:\Sagar\Repository\ProductionScoreBoard\Software\PSB\AndonManager\bin\Debug\Andonmanager.dll
+C:\Sagar\Repository\ProductionScoreBoard\Software\PSB\AndonManager\bin\Debug\Andonmanager.pdb
+C:\Sagar\Repository\ProductionScoreBoard\Software\PSB\AndonManager\bin\Debug\DeviceDriver.dll
+C:\Sagar\Repository\ProductionScoreBoard\Software\PSB\AndonManager\bin\Debug\Modbus.dll
+C:\Sagar\Repository\ProductionScoreBoard\Software\PSB\AndonManager\bin\Debug\Modbus.pdb
+C:\Sagar\Repository\ProductionScoreBoard\Software\PSB\AndonManager\bin\Debug\DeviceDriver.pdb
+C:\Sagar\Repository\ProductionScoreBoard\Software\PSB\AndonManager\obj\Debug\AndonManager.csprojResolveAssemblyReference.cache
+C:\Sagar\Repository\ProductionScoreBoard\Software\PSB\AndonManager\obj\Debug\Andonmanager.dll
+C:\Sagar\Repository\ProductionScoreBoard\Software\PSB\AndonManager\obj\Debug\Andonmanager.pdb

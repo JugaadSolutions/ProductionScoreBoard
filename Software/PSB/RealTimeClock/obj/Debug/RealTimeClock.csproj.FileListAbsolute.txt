@@ -1,0 +1,11 @@
+C:\Sagar\Repository\ProductionScoreBoard\Software\PSB\RealTimeClock\bin\Debug\RTC.dll
+C:\Sagar\Repository\ProductionScoreBoard\Software\PSB\RealTimeClock\bin\Debug\RTC.pdb
+C:\Sagar\Repository\ProductionScoreBoard\Software\PSB\RealTimeClock\obj\Debug\RealTimeClock.csprojResolveAssemblyReference.cache
+C:\Sagar\Repository\ProductionScoreBoard\Software\PSB\RealTimeClock\obj\Debug\ClockDisplay.baml
+C:\Sagar\Repository\ProductionScoreBoard\Software\PSB\RealTimeClock\obj\Debug\ClockDisplay.g.cs
+C:\Sagar\Repository\ProductionScoreBoard\Software\PSB\RealTimeClock\obj\Debug\RTC_MarkupCompile.cache
+C:\Sagar\Repository\ProductionScoreBoard\Software\PSB\RealTimeClock\obj\Debug\RTC.g.resources
+C:\Sagar\Repository\ProductionScoreBoard\Software\PSB\RealTimeClock\obj\Debug\RTC.Properties.Resources.resources
+C:\Sagar\Repository\ProductionScoreBoard\Software\PSB\RealTimeClock\obj\Debug\RealTimeClock.csproj.GenerateResource.Cache
+C:\Sagar\Repository\ProductionScoreBoard\Software\PSB\RealTimeClock\obj\Debug\RTC.dll
+C:\Sagar\Repository\ProductionScoreBoard\Software\PSB\RealTimeClock\obj\Debug\RTC.pdb

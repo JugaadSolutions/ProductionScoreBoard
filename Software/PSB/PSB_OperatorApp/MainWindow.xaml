@@ -1,0 +1,30 @@
+﻿<Window x:Class="PSB_OperatorApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:RTC"
+         Title="Production Score Board - Operator App" WindowStartupLocation="CenterScreen" Height="600" Width="800"
+        Background="Green">
+    <Grid >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.25*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0"  Margin="10" HorizontalAlignment="Stretch" VerticalAlignment="Top">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.25*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="0.25*"/>
+            </Grid.ColumnDefinitions>
+            <Image Grid.Column="0" Source="/Images/schneider_logo.jpg"/>
+            <TextBlock Name="BannerTextBlock" Grid.Column="1" FontSize="30" Foreground="White" Text="Production Score Board  " 
+                                       HorizontalAlignment="Stretch"
+                                   VerticalAlignment="Center" TextAlignment="Center" />
+            <local:ClockDisplay Grid.Column="2"  HorizontalAlignment="Right" VerticalAlignment="Center"/>
+
+        </Grid>
+
+        <Grid Grid.Row="1" Name="DashboardGrid" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+
+        </Grid>
+    </Grid>
+</Window>

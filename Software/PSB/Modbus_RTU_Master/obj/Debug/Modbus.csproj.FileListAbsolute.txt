@@ -1,0 +1,5 @@
+C:\Sagar\Repository\ProductionScoreBoard\Software\PSB\Modbus_RTU_Master\bin\Debug\Modbus.dll
+C:\Sagar\Repository\ProductionScoreBoard\Software\PSB\Modbus_RTU_Master\bin\Debug\Modbus.pdb
+C:\Sagar\Repository\ProductionScoreBoard\Software\PSB\Modbus_RTU_Master\obj\Debug\Modbus.csprojResolveAssemblyReference.cache
+C:\Sagar\Repository\ProductionScoreBoard\Software\PSB\Modbus_RTU_Master\obj\Debug\Modbus.dll
+C:\Sagar\Repository\ProductionScoreBoard\Software\PSB\Modbus_RTU_Master\obj\Debug\Modbus.pdb

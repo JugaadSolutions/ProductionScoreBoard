@@ -1,0 +1,1 @@
+C:\Sagar\Repository\ProductionScoreBoard\Software\PSB\Modbus_RTU_Master\obj\Debug\Modbus_RTU_Master.csprojResolveAssemblyReference.cache
